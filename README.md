@@ -1,2 +1,2 @@
 # didactic-selenium
-Selenium playground using python selenium webdriver
+Selenium playground for python selenium webdriver
